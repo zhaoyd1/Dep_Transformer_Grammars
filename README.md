@@ -37,7 +37,7 @@ To calculate the perplexity, please refer to our paper for more details.
 
 ## Notes
 
-Our model is a sentence-level syntactic language model, so DTGs only model a complete sentence. A document-level version of DTG is what we are now working on and maybe released in the future.
+Our model is a sentence-level syntactic language model, so DTGs only model a complete sentence. A document-level version of DTG is what we are now working on and may be released in the future.
 
 
 
